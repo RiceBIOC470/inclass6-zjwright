@@ -7,6 +7,8 @@
 % function which takes your structure array of students as input and returns
 % the average age of the students. 
 
+%Write some stuff here
+
 %2. In this folder, you will find an immunofluorescence image of human stem
 %cells stained for a gene called SOX2. Write a function which takes a
 %filename as input and returns a structure containing metaData. Include at
